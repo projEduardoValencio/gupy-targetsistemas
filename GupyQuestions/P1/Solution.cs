@@ -2,7 +2,7 @@
 
 using static Utils;
 
-public class Problema
+public class Solution
 {
     static void main(string[] args)
     {
